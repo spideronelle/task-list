@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TaskList</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_list">First list</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="new_list">New list</string>
+    <string name="add_category">Add category</string>
+    <string name="add_task">Add task</string>
+    <string name="save">Save</string>
+    <string name="all_notes">All notes</string>
+    <string name="categories">Categories</string>
+    <string name="edit_categories">Edit categories</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="new_task">New Task</string>
+    <string name="about">About</string>
+    <string name="no_category">No category added yet</string>
+    <string name="no_task">No task created yet.</string>
+    <string name="new_category">New category</string>
+</resources>
